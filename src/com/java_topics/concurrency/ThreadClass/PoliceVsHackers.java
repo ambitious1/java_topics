@@ -99,7 +99,7 @@ public class PoliceVsHackers {
 				System.out.println(i);				
 			}
 			
-			System.out.println("Game over for you hackers");
+			System.out.println("Gameover for you Hackers");
 			System.exit(0);
 		}
 	}
