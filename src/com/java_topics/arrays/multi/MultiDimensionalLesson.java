@@ -1,4 +1,4 @@
-package com.arrays.multi_dimensional;
+package com.java_topics.arrays.multi;
 
 import java.util.Scanner;
 
