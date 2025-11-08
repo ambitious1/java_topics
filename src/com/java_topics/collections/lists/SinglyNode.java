@@ -52,7 +52,7 @@ public class SinglyNode<T> {
 
 	@Override
 	public String toString() {
-		return "SinglyNode [data=" + data + ",next=" + next + "]";
+		return "SinglyNode(data=" + data + " --> Next=" + next + ")";
 	}
 	
 }
